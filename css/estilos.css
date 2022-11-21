@@ -1,0 +1,211 @@
+/*esto es para comentar en css*/
+
+
+body {
+    margin: 0 auto; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1{
+    width: 100%;
+    margin: 2rem;
+    font-size: 5rem;
+}
+
+header nav{
+    font-size: 1.5rem;
+}
+
+header nav ul{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul li{
+    padding: 0.5rem;
+}
+
+header nav ul li a{
+    color: #000000;
+}
+
+img{
+    width: 400px;
+}
+
+#img1{
+    width: 30%;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img2{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    height: 120%;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 2rem;
+}
+
+#img3{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 2rem;
+}
+
+#texto{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    margin: 0;
+}
+
+#texto h2{
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#ventajas{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    margin: 0;
+}
+
+#ventajas h2{
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#ventajas h3{
+    font-size: 1.8rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+#noticias{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    margin: 0;
+}
+
+#noticias h2{
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#noticias h3{
+    font-size: 1.8rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+#opinion{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    margin: 0;
+}
+
+#opinion h2{
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#opinion h3{
+    font-size: 1.8rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+p{
+    margin: 2rem;
+    padding: 2rem;
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    width: 90%;
+    margin: 0 auto;
+    font-size: 5rem;
+    color:rgb(180, 0, 0);
+}
+
+#video{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    width: 100%;;
+    margin: 5rem;
+    color: darkred;
+    padding: 5rem;
+    text-align: center;
+}
+
+ol{
+    margin: 2rem;
+    font-size: 2rem;
+    color: black;
+    padding: 3rem;
+}
+
+li{
+    margin: 2rem;
+    font-size: 2rem;
+    color: black;
+    padding: 2rem;
+}
+
+h4{
+    font-size: 1rem;
+    color: darkred;
+}
+
+footer{
+    margin: 3rem;
+    padding: 3rem;
+    text-align: center;
+}
+
+footer p{
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+footer h4{
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    color: #000000;
+}
+
+footer a{
+    font-size: 2rem;
+    margin: 1rem;
+}
